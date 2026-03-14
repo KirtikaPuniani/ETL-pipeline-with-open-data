@@ -18,7 +18,7 @@ import pandas as pd
 from extract import df
 
 # drop rows with missing important values and create a copy
-df = df.dropna(subset=["Date_reported", "Country_code"])
+df = df.dropna(subset=["Date_reported", "Country_code"]).copy()
 
 # convert to datetime BEFORE using .dt
 df["Date_reported"] = pd.to_datetime(df["Date_reported"], errors="coerce")
