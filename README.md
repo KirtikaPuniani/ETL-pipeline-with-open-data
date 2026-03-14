@@ -33,9 +33,10 @@ Project Architecture:
 
 
 Tech Stack:
-        1. Python
-        2. Apache Airflow
-        3. Google Cloud Storage
-        4. BigQuery
-        5. Docker
-        6. Parquet
+
+1. Python
+2. Apache Airflow
+3. Google Cloud Storage
+4. BigQuery
+5. Docker
+6. Parquet
