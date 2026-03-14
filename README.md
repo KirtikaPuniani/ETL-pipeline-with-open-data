@@ -9,7 +9,7 @@ This project demonstrates a production-style ETL pipeline that:
 5. Loads data into BigQuery
 
 
-Project Architecture:
+**Project Architecture:**
 
     Open Dataset (CSV)
             │
@@ -32,7 +32,7 @@ Project Architecture:
     SQL Analytics
 
 
-Tech Stack:
+**Tech Stack:**
 
 1. Python
 2. Apache Airflow
