@@ -6,15 +6,6 @@ This project demonstrates a production-style ETL pipeline that:
 2. Cleans and transforms data
 3. Converts to Parquet format
 4. Uploads to Google Cloud Storage
-
-
-
-
-
-
-
-
-
 5. Loads data into BigQuery
 
 
