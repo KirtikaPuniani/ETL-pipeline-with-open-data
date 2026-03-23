@@ -1,4 +1,4 @@
 bq load \
 --source_format=PARQUET \
 WHO-COVID-19-global-daily-data.trips \
-gs://my-bucket/data/yellow_tripdata.parquet
+gs://ETL-Pipeline-Bucket/data/WHO-COVID-19-global-daily-data.parquet
