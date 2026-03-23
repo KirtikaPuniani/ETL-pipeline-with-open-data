@@ -1,3 +1,3 @@
 #Command to upload parquet file to Google Cloud Storage
 
-gsutil cp yellow_tripdata.parquet gs://ETL-Pipeline-Bucket/data/
+gsutil cp WHO-COVID-19-global-daily-data.parquet gs://ETL-Pipeline-Bucket/data/
