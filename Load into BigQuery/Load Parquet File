@@ -1,3 +1,5 @@
+#Loading COVID-19 parquet file
+
 bq load \
 --source_format=PARQUET \
 WHO-COVID-19-global-daily-data.COVID_data \
