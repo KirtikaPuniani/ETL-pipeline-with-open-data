@@ -1,9 +1,3 @@
 #Creating COVID-19 dataset in BigQuery
 
 bq mk COVID_data
-
-
-
-
-
-
